@@ -1,2 +1,2 @@
 # DICTU
-Testomgeving voor GITHUB bij DICTU
+Testomgeving voor GITHUB bij PTWEE
